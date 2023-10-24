@@ -1,0 +1,157 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700;800&display=swap');
+
+
+
+.fullOuter{
+	width:80%;
+	height:auto;
+	margin:30px auto;
+	box-shadow:0px 0px 10px 3px #39393942;
+	/* padding:40px 40px; */
+	background-color:#ffff;
+}
+.flex_div{
+	display:flex;
+}
+.gray_box{
+	background-color:#e7e7e9;
+	width:250px;
+	height:1530px;
+	padding-left:50px;
+}
+.image{
+	width:200px;
+	height:200px;
+	border-radius:50%;
+	/* margin-left:50px; */
+	text-align:center;
+}
+.title{
+	font-size:32px;
+	color:#6a6969;
+	font-family: 'Noto Sans', sans-serif;
+}
+.subTitletop{
+	font-size:20px;
+	color:#434242;
+	font-family: 'Noto Sans', sans-serif;
+}
+.heading{
+	font-family: 'Noto Sans', sans-serif;
+}
+.profile_img_div{
+	border-bottom:3px solid #8080806e;
+	padding-top:50px;
+}
+.contactdet{
+	color:black;
+	line-height:30px;
+	text-decoration:none;
+}
+.sec_profile_img_div{
+	padding-bottom:20px;
+	border-bottom:3px solid #8080806e;
+}
+.white_box{
+	padding-top:30px;
+	margin-left:30px;
+	width:250px;
+	/* background-color:gray; */
+	height:auto;
+}
+.experiance_div{
+	padding-left:30px;
+	border-left:3px solid #8080806e;
+}
+.experiance_div p{
+	font-size:20px;
+}
+.white_box_two{
+	padding-top:60px;
+	margin-left:30px;
+	width:400px;
+}
+.experiance_div_two{
+	padding-top:18px;
+	border-top:3px solid #8080806e;
+}
+.experiance_div_two p{
+	font-size:20px;
+}
+.li_look{
+	position:relative;
+}
+.round{
+	width:10px;
+	height:10px;
+	border-radius:50%;
+	background-color:#ffff;
+	border:1px solid #8080806e;
+	position:absolute;
+	z-index:3;
+	left:-37px;
+	top:2px;
+	
+}
+span{
+	font-size:15px;
+}
+.persent_box{
+	width:100%;
+	height:7px;
+	background-color:#cecece;
+	padding:2px;
+}
+.persent_in{
+	width:90%;
+	height:5px;
+	background-color:#00000066;
+	padding:1px;
+}
+.last{
+	padding-top:40px;
+}
+.one{
+	margin-bottom:36px;
+}
+.perthree{
+	width:70%;
+}
+.perfour{
+	width:70%;
+}
+.perfive{
+	width:80%;
+}
+.persix{
+	width:70%;
+}
+.linkweb{
+	text-decoration:none;
+	color:gray;
+}
+
+@media (max-width:720px){
+.fullOuter{
+	width:680px;
+	height:auto;
+	margin:30px auto;
+	box-shadow:0px 0px 10px 3px #39393942;
+	/* padding:40px 40px; */
+	background-color:#ffff;
+}
+.gray_box{
+	background-color:#e7e7e9;
+	width:150px;
+	height:1500px;
+	padding-left:20px;
+}
+.image{
+	width:100px;
+	height:100px;
+	border-radius:50%;
+	/* margin-left:50px; */
+	text-align:center;
+}
+}
