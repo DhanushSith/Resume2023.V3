@@ -46,6 +46,12 @@
 	/* font-family: 'Noto Sans', sans-serif; */
 	text-decoration:none;
 	color:black;
+	position:relative;
+}
+.material-symbols-outlined{
+	padding:3px 0px 0px 3px;
+	position:absolute;
+	color:gray;
 }
 #smalll{
 	font-size:18px;
