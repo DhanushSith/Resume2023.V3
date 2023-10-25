@@ -16,9 +16,9 @@
 }
 .gray_box{
 	background-color:#e7e7e9;
-	width:208px;
+	width:258px;
 	height:1530px;
-	padding:0px 50px;
+	padding:0px 0px 0px 50px;
 }
 .image{
 	width:198px;
@@ -75,6 +75,7 @@
 .sec_profile_img_div{
 	padding-bottom:20px;
 	border-bottom:3px solid #8080806e;
+	padding-right:50px;
 }
 .white_box{
 	padding-top:30px;
