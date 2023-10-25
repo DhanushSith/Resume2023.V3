@@ -4,7 +4,7 @@
 
 
 .fullOuter{
-	width:80%;
+	width:83%;
 	height:auto;
 	margin:30px auto;
 	box-shadow:0px 0px 10px 3px #39393942;
@@ -16,22 +16,29 @@
 }
 .gray_box{
 	background-color:#e7e7e9;
-	width:235px;
+	width:208px;
 	height:1530px;
-	padding-left:50px;
+	padding:0px 50px;
 }
 .image{
-	width:185px;
-	height:175px;
+	width:198px;
+	height:188px;
 	border-radius:5% 50% 50% 5%;
 	/* margin-left:10px; */
 	text-align:center;
 	/* border:2px solid white; */
+	
 }
 .title{
 	font-size:30px;
 	color:#6a6969;
 	font-family: 'Noto Sans', sans-serif;
+}
+.titleDhan{
+	font-size:46px;
+	color:#6a6969;
+	font-family: 'Noto Sans', sans-serif;
+	/* letter-spacing:8px; */
 }
 .subTitletop{
 	font-size:20px;
@@ -72,7 +79,7 @@
 .white_box{
 	padding-top:30px;
 	margin-left:30px;
-	width:250px;
+	width:270px;
 	/* background-color:gray; */
 	height:auto;
 }
